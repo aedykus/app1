@@ -1,3 +1,6 @@
+# Ignore Mac DS_Store files
+.DS_Store
+**/.DS_Store
 pass-abaikan.txt
 pass-abaikan2.txt
 .DS_Store.DS_Store
